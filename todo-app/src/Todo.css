@@ -1,0 +1,30 @@
+.Todo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  background-color: rgb(86, 253, 123);
+  margin: 2px;
+  border-radius: 5px;
+}
+
+.Todo-description {
+  max-width: 400px;
+  word-break: break-all;
+  margin: 5px;
+  padding: 5px;
+}
+
+.Todo-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20px;
+  width: 20px;
+  font-weight: bold;
+  background-color: rgb(255, 251, 0);
+  border: none;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+}

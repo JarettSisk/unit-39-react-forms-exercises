@@ -1,0 +1,39 @@
+.NewTodoForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(86, 253, 123);
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.NewTodoForm-button {
+  width: 60px;
+  margin: 10px;
+  border: none;
+  height: 34px;
+  width: 80px;
+  background-color: rgb(0, 71, 165);
+  font-weight: bold;
+  font-size: 0.95rem;
+  color: white;
+  border-radius: 8px;
+}
+
+.NewTodoFOrm-label-description {
+  margin: 10px 0 10px 0;
+  font-size: 1.2rem;
+  width: 500px;
+}
+
+.NewTodoForm-input-description {
+  padding: 4px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.NewTodoForm-button {
+  cursor: pointer;
+}
