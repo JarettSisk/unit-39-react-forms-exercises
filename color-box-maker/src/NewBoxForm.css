@@ -1,0 +1,10 @@
+.NewBoxForm {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+.NewBoxForm-button {
+  margin: 10px 0 10px 0;
+}

@@ -1,0 +1,12 @@
+.BoxList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.BoxList-boxes {
+  flex-wrap: wrap;
+  border: 1px solid black;
+  margin: 40px;
+  display: flex;
+}
